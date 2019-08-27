@@ -1,0 +1,27 @@
+.bar {
+    fill: rgba(95, 21, 163, 0.808);
+  }
+  
+.bar:hover {
+    fill: darkgray;
+}
+
+line {
+    stroke: black;
+    stroke-width: 1.5px
+}
+
+.axis-label {
+    font: 10px sans-serif;
+  }
+
+.label {
+    font: 8.5px sans-serif;
+    fill: white;
+  }
+#title{
+    font: 12px sans-serif;
+    fill: black;
+}
+
+

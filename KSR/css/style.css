@@ -12,12 +12,13 @@ line {
 }
 
 .axis-label {
-    font: 10px sans-serif;
+    font-size: 10px;
+    font-style: sans-serif;
   }
 
 .label {
     font: 8.5px sans-serif;
-    fill: white;
+    fill: black;
   }
 #title{
     font: 12px sans-serif;

@@ -1,7 +1,25 @@
+[{
+    "label": "I am a very long label",
+    "count": 50
+},
 {
- "A": 1,
- "B": 5,
- "C": 3,
- "D": 7,
- "E": 2   
+    "label": "B",
+    "count": 5
+},
+{
+    "label": "C",
+    "count": 7
+},
+{
+    "label": "D",
+    "count": 2
+},
+{
+    "label": "E",
+    "count": 4
+},
+{
+    "label": "F",
+    "count": 3
 }
+]

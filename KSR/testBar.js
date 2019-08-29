@@ -1,0 +1,2 @@
+let data = '{	"data": [{"label": "I am a very long label", "count": 50},{"label": "B", "count": 5},	{"label": "C", "count": 7},{"label": "D", "count": 2},{"label": "E", "count": 4} ,{"label": "F", "count": 3}]}';
+drawBar(data, 'SampleBarChart');

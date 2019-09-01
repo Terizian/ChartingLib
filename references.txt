@@ -1,0 +1,5 @@
+Example bar chart
+https://codepen.io/mdgrover/pen/eZENxO
+
+SVG pie chart
+https://seesparkbox.com/foundry/how_to_code_an_SVG_pie_chart

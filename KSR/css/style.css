@@ -15,10 +15,11 @@ line {
     font-size: 10px;
     font-style: sans-serif;
   }
-  .axis-label:hover {
-    font-size: 12.5px;
-    font-style: sans-serif;
-  }
+  
+.axis-label:hover {
+  font-size: 12.5px;
+  font-style: sans-serif;
+}
 
 .label {
     font: 8.5px sans-serif;

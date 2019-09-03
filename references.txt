@@ -3,3 +3,9 @@ https://codepen.io/mdgrover/pen/eZENxO
 
 SVG pie chart
 https://seesparkbox.com/foundry/how_to_code_an_SVG_pie_chart
+
+SVG pie chart with the path variable
+https://danielpataki.com/svg-pie-chart-javascript/
+
+SVG arc:
+https://codepen.io/osublake/pen/OmgMNm

@@ -1,7 +1,7 @@
 {
     "data": [{
-            "label": "I am a very long label",
-            "count": 50
+            "label": "A",
+            "count": 2
         },
         {
             "label": "B",

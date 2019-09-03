@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .bar {
     fill: rgba(95, 21, 163, 0.808);
   }
@@ -15,7 +20,7 @@ line {
     font-size: 10px;
     font-style: sans-serif;
   }
-  
+
 .axis-label:hover {
   font-size: 12.5px;
   font-style: sans-serif;
@@ -30,4 +35,21 @@ line {
     fill: black;
 }
 
+.lbl{
+  font: 5px sans-serif;
+  fill: black;
+}
 
+.box{
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+}
+.line{
+  width: 30px;
+  height: 8px;
+}
+
+.sector:hover {
+  fill: darkgray;
+}

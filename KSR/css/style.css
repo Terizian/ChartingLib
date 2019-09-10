@@ -27,7 +27,8 @@ line {
 }
 
 .label {
-    font: 8.5px sans-serif;
+    font: 3px sans-serif ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     fill: black;
   }
 #title{
@@ -37,6 +38,7 @@ line {
 
 .lbl{
   font: 5px sans-serif;
+  
   fill: black;
 }
 
@@ -52,4 +54,27 @@ line {
 
 .sector:hover {
   fill: darkgray;
+}
+
+.pieChartLabels{
+  font-size: 3px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  fill: black;
+}
+
+/*  */
+
+.path {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 10s linear alternate infinite;
+}
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
 }

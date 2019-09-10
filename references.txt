@@ -9,3 +9,12 @@ https://danielpataki.com/svg-pie-chart-javascript/
 
 SVG arc:
 https://codepen.io/osublake/pen/OmgMNm
+
+An example Pie/Donut:
+https://www.amcharts.com/demos/pie-chart-with-legend
+
+Path guide: 
+https://css-tricks.com/svg-path-syntax-illustrated-guide/
+
+Color theory:
+https://blog.hubspot.com/marketing/color-theory-design
